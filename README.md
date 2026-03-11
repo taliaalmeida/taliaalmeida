@@ -53,13 +53,5 @@ Estou em transição de carreira e construindo minha trajetória na área de TI 
 
 ## 📬 Contato
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/natalia-almeida-7249b6183)
-[
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-](mailto:nat.almeida1989@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/natalia-almeida-7249b6183)
+- 📧 [nat.almeida1989@gmail.com](mailto:nat.almeida1989@gmail.com)
