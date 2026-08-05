@@ -43,11 +43,11 @@ Estou em transição de carreira e construindo minha trajetória na área de TI 
 
 | Projeto | Descrição | Tecnologia |
 |---|---|---|
-| [Automação de Cadastro](https://github.com/taliaalmeida/projeto-automacao) | Automação do cadastro de milhares de produtos em sistema | Python |
-| [Análise de Cancelamento](https://github.com/taliaalmeida/projeto-analise-dados) | Dashboard que identificou queda de churn de 56% para 18% | Python |
+| [Sistema de gestão para Clínica](https://github.com/taliaalmeida/gestao-clinica) | Sistema SaaS completo para clínicas de estética com agenda, caixa e prontuários sincronizados em tempo real via Firebase. | HTML5, CSS3, Firebase |
+| [Agenda Estética Avançada](https://github.com/taliaalmeida/projeto-analise-dados) | Evolução do sistema de gestão, focada em escalabilidade e melhoria da experiência do usuário para o nicho de estética. | HTML5, CSS3, Firebase |
 | [Previsão de Crédito com IA](https://github.com/taliaalmeida/projeto-inteligencia-artificial) | Modelo com 86% de precisão para prever nota de crédito | Python |
 | [Chat ao Vivo Site/App](https://github.com/taliaalmeida/projeto-site-app) | Chat em tempo real com front-end e back-end em Python | Python / Flet |
-| [E-book: Introdução à IA](https://github.com/taliaalmeida/Taliaalmeida-Ebook-IA) | Material educativo sobre IA, machine learning e ética | - |
+| [Sistema de Cadastro](https://github.com/taliaalmeida/sistema-cadastro) | Aplicação backend para gerenciamento de usuários, demonstrando lógica de CRUD e manipulação estruturada de dados. | Python |
 
 ---
 
