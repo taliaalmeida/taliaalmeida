@@ -210,41 +210,7 @@ Site desenvolvido para apresentar projetos, soluções digitais e minha trajetó
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=F472B6" />
 </a>
 
----
 
-### ⚙️ Projeto Automação
-
-Automação desenvolvida em Python para **cadastro de produtos em sistema**, com foco na redução de tarefas repetitivas e ganho de produtividade.
-
-**Tecnologias:** `Python` `Automation`
-
-<a href="https://github.com/taliaalmeida/Projeto-automacao">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=F472B6" />
-</a>
-
----
-
-### 🤖 Projeto Inteligência Artificial
-
-Projeto desenvolvido em Python explorando **inteligência artificial, análise de dados e previsão de score de crédito**.
-
-**Tecnologias:** `Python` `Jupyter Notebook` `Machine Learning`
-
-<a href="https://github.com/taliaalmeida/Projeto-inteligencia-artificial">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=F472B6" />
-</a>
-
----
-
-### 📊 Projeto Análise de Dados
-
-Projeto de análise de **cancelamento de clientes (Churn)** utilizando Python para identificar padrões, analisar comportamentos e gerar insights.
-
-**Tecnologias:** `Python` `Jupyter Notebook` `Pandas` `Data Analysis`
-
-<a href="https://github.com/taliaalmeida/Projeto-analise-dados">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=F472B6" />
-</a>
 
 ---
 
