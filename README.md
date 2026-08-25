@@ -32,7 +32,7 @@ const natalia = {
 };
 ```
 
-> 💡 Desenvolvedora em formação, construindo minha trajetória em Tecnologia da Informação através de projetos práticos, automação, desenvolvimento web, dados e inteligência artificial.
+> 💗 Desenvolvedora em formação, construindo minha trajetória em Tecnologia da Informação através de projetos práticos, desenvolvimento web, automação, dados e inteligência artificial.
 
 ---
 
@@ -44,7 +44,7 @@ const natalia = {
 
 🤖 Explorando **automação, inteligência artificial e análise de dados**
 
-🌱 Em constante evolução através de projetos e aprendizado contínuo
+🌱 Aprendendo continuamente através de projetos e desafios práticos
 
 🎯 Buscando transformar problemas reais em **soluções digitais simples, funcionais e eficientes**
 
@@ -83,7 +83,7 @@ const natalia = {
 
 <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=F9A8D4" />
 <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=F472B6" />
-<img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=F9A8D4" />
+<img src="https://img.shields.io/badge/REST%20API-0D1117?style=for-the-badge&logo=swagger&logoColor=EC4899" />
 
 <br/><br/>
 
@@ -92,8 +92,9 @@ const natalia = {
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=F472B6" />
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=for-the-badge&logo=openai&logoColor=F9A8D4" />
-<img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&logo=python&logoColor=EC4899" />
+<img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F9A8D4" />
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=for-the-badge&logo=openai&logoColor=EC4899" />
+<img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&logo=python&logoColor=F472B6" />
 
 <br/><br/>
 
@@ -141,67 +142,73 @@ const natalia = {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/REAL%20PROJECTS-EC4899?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/FEATURED%20PROJECTS-EC4899?style=for-the-badge&labelColor=0D1117" />
+
+<br/><br/>
 
 </div>
 
-### 💎 Agenda Estética Avançada
+### 💎 Gestão Clínica
 
-Sistema SaaS voltado para clínicas de estética, com foco em organização de agenda, gestão e experiência do usuário.
+Sistema de gestão para clínicas de estética, reunindo **agenda, caixa, clientes, prontuários e administração** em uma única aplicação, com sincronização em tempo real.
 
-**Stack:** `HTML5` `CSS3` `JavaScript` `Firebase`
+**Tecnologias:** `HTML` `CSS` `JavaScript` `Firebase Realtime Database`
 
-[→ Ver projeto](https://github.com/taliaalmeida/agenda-estetica-avancada-sv/blob/main/README.md)
-
----
-
-### 🏥 Gestão Clínica
-
-Sistema de gestão para clínicas de estética reunindo agenda, caixa, clientes, prontuários e administração em uma única aplicação.
-
-**Stack:** `HTML5` `CSS3` `Firebase Realtime Database`
-
-[→ Ver projeto](https://github.com/taliaalmeida/gestao-clinica/blob/main/README.md)
+🔗 **[Ver repositório →](https://github.com/taliaalmeida/gestao-clinica)**
 
 ---
 
-### 🤖 Previsão de Crédito com IA
+### ✨ Agenda Estética Avançada
 
-Projeto de machine learning desenvolvido em Python para previsão de nota de crédito, explorando análise de dados e modelos preditivos.
+Sistema SaaS profissional desenvolvido para **clínicas de estética**, com foco em organização, gestão e experiência do usuário.
 
-**Stack:** `Python` `Data Analysis` `Machine Learning`
+**Tecnologias:** `HTML` `CSS` `JavaScript`
 
-[→ Ver projeto](https://github.com/taliaalmeida/Projeto-inteligencia-artificial)
+🔗 **[Ver repositório →](https://github.com/taliaalmeida/agenda-estetica-avancada-sv)**
+
+---
+
+### 💰 Finanças em Dupla
+
+Aplicação web para **controle financeiro**, desenvolvida para organizar receitas, despesas e acompanhamento financeiro de forma simples e visual.
+
+**Tecnologias:** `HTML` `CSS` `JavaScript`
+
+🔗 **[Ver repositório →](https://github.com/taliaalmeida/financas-dupla)**
 
 ---
 
 ### ⚙️ Projeto Automação
 
-Automação desenvolvida em Python para cadastro de grandes volumes de produtos em sistema, com possibilidade de execução diária e sob demanda.
+Automação desenvolvida em Python para **cadastro de milhares de produtos em sistema**, com possibilidade de execução diária e sob demanda.
 
-**Stack:** `Python` `Automation`
+**Tecnologias:** `Python` `Automation`
 
-[→ Ver projeto](https://github.com/taliaalmeida/Projeto-automacao/blob/main/README.md)
-
----
-
-### 💬 Chat ao Vivo
-
-Aplicação de comunicação em tempo real desenvolvida explorando front-end e back-end com Python.
-
-**Stack:** `Python` `Flet`
-
-[→ Ver projeto](https://github.com/taliaalmeida/Projeto-site-app)
+🔗 **[Ver repositório →](https://github.com/taliaalmeida/Projeto-automacao)**
 
 ---
 
-### 👥 Sistema de Cadastro
+### 🤖 Projeto Inteligência Artificial
 
-Aplicação em Python para gerenciamento de usuários, utilizando menu interativo, listas, dicionários e operações de cadastro, consulta e busca.
+Modelo de inteligência artificial para **previsão de score de crédito**, desenvolvido utilizando dados de clientes de uma financeira.
 
-**Stack:** `Python`
+O projeto apresenta **86% de precisão** no modelo desenvolvido.
 
-[→ Ver projeto](https://github.com/taliaalmeida/sistema-cadastro/blob/main/README.md)
+**Tecnologias:** `Python` `Jupyter Notebook` `Machine Learning` `Data Analysis`
+
+🔗 **[Ver repositório →](https://github.com/taliaalmeida/Projeto-inteligencia-artificial)**
+
+---
+
+### 📊 Projeto Análise de Dados
+
+Análise de **cancelamento de clientes (Churn)** utilizando Python e dashboards para identificação de padrões e apoio à tomada de decisão.
+
+O projeto apresenta uma redução simulada da taxa de churn de **56% para 18%**.
+
+**Tecnologias:** `Python` `Jupyter Notebook` `Pandas` `Data Analysis`
+
+🔗 **[Ver repositório →](https://github.com/taliaalmeida/Projeto-analise-dados)**
 
 ---
 
@@ -212,12 +219,12 @@ Aplicação em Python para gerenciamento de usuários, utilizando menu interativ
 │                    PROJECT STATUS                       │
 ├─────────────────────────────────────────────────────────┤
 │                                                         │
-│  🟢  Agenda Estética Avançada     ACTIVE               │
-│  🟢  Gestão Clínica               ACTIVE               │
-│  🟢  Projeto Automação            BUILDING             │
-│  🟢  Finanças / Sistemas          IMPROVING            │
-│  🟡  Data & AI                    STUDYING             │
-│  🟡  APIs & Backend               STUDYING             │
+│  🟢  Gestão Clínica              ACTIVE                │
+│  🟢  Agenda Estética             ACTIVE                │
+│  🟢  Finanças em Dupla           ACTIVE                │
+│  🟢  Projeto Automação           BUILDING              │
+│  🟡  Inteligência Artificial     STUDYING              │
+│  🟡  Análise de Dados            STUDYING              │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
@@ -228,23 +235,45 @@ Aplicação em Python para gerenciamento de usuários, utilizando menu interativ
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=taliaalmeida&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=EC4899&text_color=F9A8D4" />
+<img src="https://github-readme-stats.vercel.app/api?username=taliaalmeida&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=EC4899&text_color=F9A8D4&count_private=true" alt="GitHub Stats" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taliaalmeida&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F472B6&text_color=F9A8D4" />
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taliaalmeida&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=F472B6&text_color=F9A8D4" alt="Top Languages" />
+
+<br/><br/>
+
+<code>GITHUB METRICS > DATA LOADED ✓</code>
 
 </div>
 
 ---
 
-## `08 // CONTRIBUTION_MATRIX`
+## `08 // DEVELOPMENT_MATRIX`
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=taliaalmeida&theme=dark&hide_border=true&background=0D1117&ring=EC4899&fire=F472B6&currStreakLabel=F9A8D4&sideLabels=F9A8D4&dates=F9A8D4" />
+<img src="https://img.shields.io/badge/REPOSITORIES-14-EC4899?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/PROJECTS-6-F472B6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/FOCUS-PYTHON%20%7C%20WEB%20%7C%20AI-F9A8D4?style=for-the-badge&labelColor=0D1117" />
 
 <br/><br/>
 
-<code>CONTRIBUTION MATRIX > DEVELOPMENT MODE ✓</code>
+```text
+┌─────────────────────────────────────────────────────────┐
+│                 DEVELOPMENT MATRIX                      │
+├─────────────────────────────────────────────────────────┤
+│                                                         │
+│  Python                 ████████████████████             │
+│  Web Development        ██████████████████░░             │
+│  Automation             █████████████████░░░             │
+│  Data Analysis          ███████████████░░░░░             │
+│  Artificial Intelligence██████████████░░░░░░             │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+<code>DEVELOPMENT MATRIX > ACTIVE DEVELOPMENT MODE ✓</code>
 
 </div>
 
@@ -276,7 +305,23 @@ Aplicação em Python para gerenciamento de usuários, utilizando menu interativ
 
 ---
 
-## `10 // CONNECT`
+## `10 // PORTFOLIO`
+
+<div align="center">
+
+<a href="https://github.com/taliaalmeida/by-natalia-dev-ou-portfolio">
+  <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=github&logoColor=F472B6" />
+</a>
+
+<a href="https://github.com/taliaalmeida">
+  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=F9A8D4" />
+</a>
+
+</div>
+
+---
+
+## `11 // CONNECT`
 
 <div align="center">
 
@@ -288,19 +333,21 @@ Aplicação em Python para gerenciamento de usuários, utilizando menu interativ
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F9A8D4" />
 </a>
 
+<a href="https://github.com/taliaalmeida/by-natalia-dev-ou-portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=EC4899" />
+</a>
+
 <br/><br/>
 
 <code>@taliaalmeida // BUILDING • LEARNING • EVOLVING</code>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:F472B6,100:0D1117&height=120&section=footer" width="100%" />
 
 </div>
 
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:F472B6,100:0D1117&height=120&section=footer" width="100%" />
 
 ### `Thanks for visiting my profile. 💗`
 
