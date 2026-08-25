@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=F472B6&center=true&vCenter=true&width=750&lines=Developer+in+Training;Python+%E2%80%A2+Web+Development+%E2%80%A2+Automation;AI+%26+Data+%E2%80%A2+Problem+Solving;Building+real+projects+with+technology;Learn.+Build.+Automate.+Evolve" alt="Typing SVG" />
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-EC4899?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/FOCUS-TECHNOLOGY-F472B6?style=for-the-badge&labelColor=0D1117" />
@@ -50,7 +50,7 @@ const natalia = {
 
 <div align="center">
 
-<pre>
+```text
 ┌──────────────────────────────────────────────────────┐
 │                  NATALIA ALMEIDA                     │
 ├──────────────────────────────────────────────────────┤
@@ -60,7 +60,7 @@ const natalia = {
 │  APPROACH   : Learn by building                      │
 │  STATUS     : ONLINE                                 │
 └──────────────────────────────────────────────────────┘
-</pre>
+```
 
 </div>
 
@@ -125,18 +125,16 @@ const natalia = {
 
 <img src="https://img.shields.io/badge/LEARNING%20MODE-ACTIVE-EC4899?style=for-the-badge&labelColor=0D1117" />
 
-<br><br>
+</div>
 
-<pre>
+```text
 [ ████████████████████ ] Python
 [ ██████████████████░░ ] Web Development
 [ █████████████████░░░ ] Automation
 [ ███████████████░░░░░ ] Data Analysis
 [ ██████████████░░░░░░ ] Artificial Intelligence
 [ █████████████░░░░░░░ ] APIs & Backend
-</pre>
-
-</div>
+```
 
 > Atualmente aprofundando conhecimentos em desenvolvimento, automação, dados e inteligência artificial através de projetos práticos.
 
@@ -160,13 +158,9 @@ Sistema de gestão para clínicas de estética, reunindo **agenda, caixa, client
 
 **Tecnologias:** `HTML` `CSS` `JavaScript` `Firebase`
 
-<div align="center">
-
 <a href="https://github.com/taliaalmeida/gestao-clinica">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=F472B6" />
 </a>
-
-</div>
 
 ---
 
@@ -176,13 +170,9 @@ Sistema desenvolvido para **clínicas de estética**, com foco em organização 
 
 **Tecnologias:** `HTML` `CSS` `JavaScript`
 
-<div align="center">
-
 <a href="https://github.com/taliaalmeida/agenda-estetica-avancada-sv">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=F472B6" />
 </a>
-
-</div>
 
 ---
 
@@ -192,13 +182,9 @@ Aplicação web para **controle financeiro de clínicas de estética**, com foco
 
 **Tecnologias:** `HTML` `CSS` `JavaScript` `Firebase`
 
-<div align="center">
-
 <a href="https://github.com/taliaalmeida/caixa-clinica">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=F472B6" />
 </a>
-
-</div>
 
 ---
 
@@ -208,13 +194,9 @@ Aplicação web para **controle financeiro**, desenvolvida para organizar receit
 
 **Tecnologias:** `HTML` `CSS` `JavaScript` `Supabase`
 
-<div align="center">
-
 <a href="https://github.com/taliaalmeida/financas-dupla">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=F472B6" />
 </a>
-
-</div>
 
 ---
 
@@ -224,13 +206,45 @@ Site desenvolvido para apresentar projetos, soluções digitais e minha trajetó
 
 **Tecnologias:** `HTML` `CSS` `JavaScript` `GitHub Pages`
 
-<div align="center">
-
 <a href="https://github.com/taliaalmeida/by-natalia-dev-ou-portfolio">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=F472B6" />
 </a>
 
-</div>
+---
+
+### ⚙️ Projeto Automação
+
+Automação desenvolvida em Python para **cadastro de produtos em sistema**, com foco na redução de tarefas repetitivas e ganho de produtividade.
+
+**Tecnologias:** `Python` `Automation`
+
+<a href="https://github.com/taliaalmeida/Projeto-automacao">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=F472B6" />
+</a>
+
+---
+
+### 🤖 Projeto Inteligência Artificial
+
+Projeto desenvolvido em Python explorando **inteligência artificial, análise de dados e previsão de score de crédito**.
+
+**Tecnologias:** `Python` `Jupyter Notebook` `Machine Learning`
+
+<a href="https://github.com/taliaalmeida/Projeto-inteligencia-artificial">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=F472B6" />
+</a>
+
+---
+
+### 📊 Projeto Análise de Dados
+
+Projeto de análise de **cancelamento de clientes (Churn)** utilizando Python para identificar padrões, analisar comportamentos e gerar insights.
+
+**Tecnologias:** `Python` `Jupyter Notebook` `Pandas` `Data Analysis`
+
+<a href="https://github.com/taliaalmeida/Projeto-analise-dados">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=F472B6" />
+</a>
 
 ---
 
@@ -238,7 +252,7 @@ Site desenvolvido para apresentar projetos, soluções digitais e minha trajetó
 
 <div align="center">
 
-<pre>
+```text
 ┌─────────────────────────────────────────────────────────┐
 │                    PROJECT STATUS                       │
 ├─────────────────────────────────────────────────────────┤
@@ -248,9 +262,12 @@ Site desenvolvido para apresentar projetos, soluções digitais e minha trajetó
 │  🟢  Caixa Clínica               FEATURED              │
 │  🟢  Finanças em Dupla           FEATURED              │
 │  🟢  By Natalia Dev              FEATURED              │
+│  🟢  Projeto Automação           BUILDING              │
+│  🟡  Inteligência Artificial     STUDYING              │
+│  🟡  Análise de Dados            STUDYING              │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
-</pre>
+```
 
 </div>
 
@@ -264,11 +281,17 @@ Site desenvolvido para apresentar projetos, soluções digitais e minha trajetó
 
 <br><br>
 
-🎯 **INTEREST AREAS**
+```text
+🎯 INTEREST AREAS
 
-<br><br>
-
-`Software Development` • `Python` • `Web Development` • `Automation` • `Data` • `Artificial Intelligence`
+→ Software Development
+→ Python Development
+→ Web Development
+→ Automation
+→ Data
+→ Artificial Intelligence
+→ Technology & Innovation
+```
 
 </div>
 
@@ -281,12 +304,16 @@ Site desenvolvido para apresentar projetos, soluções digitais e minha trajetó
 <div align="center">
 
 <a href="https://github.com/taliaalmeida/by-natalia-dev-ou-portfolio">
-<img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=github&logoColor=F472B6" />
+<img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=EC4899" />
 </a>
 
 <a href="https://github.com/taliaalmeida">
 <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=F9A8D4" />
 </a>
+
+<br><br>
+
+<code>Explore my projects, solutions and technology journey.</code>
 
 </div>
 
