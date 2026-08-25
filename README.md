@@ -144,15 +144,13 @@ const natalia = {
 
 <img src="https://img.shields.io/badge/FEATURED%20PROJECTS-EC4899?style=for-the-badge&labelColor=0D1117" />
 
-<br/><br/>
-
 </div>
 
 ### 💎 Gestão Clínica
 
-Sistema de gestão para clínicas de estética, reunindo **agenda, caixa, clientes, prontuários e administração** em uma única aplicação, com sincronização em tempo real.
+Sistema de gestão para clínicas de estética, reunindo **agenda, caixa, clientes, prontuários e administração** em uma única aplicação.
 
-**Tecnologias:** `HTML` `CSS` `JavaScript` `Firebase Realtime Database`
+**Tecnologias:** `HTML` `CSS` `JavaScript` `Firebase`
 
 🔗 **[Ver repositório →](https://github.com/taliaalmeida/gestao-clinica)**
 
@@ -160,7 +158,7 @@ Sistema de gestão para clínicas de estética, reunindo **agenda, caixa, client
 
 ### ✨ Agenda Estética Avançada
 
-Sistema SaaS profissional desenvolvido para **clínicas de estética**, com foco em organização, gestão e experiência do usuário.
+Sistema desenvolvido para **clínicas de estética**, com foco em organização de agenda, gestão e experiência do usuário.
 
 **Tecnologias:** `HTML` `CSS` `JavaScript`
 
@@ -172,7 +170,7 @@ Sistema SaaS profissional desenvolvido para **clínicas de estética**, com foco
 
 Aplicação web para **controle financeiro**, desenvolvida para organizar receitas, despesas e acompanhamento financeiro de forma simples e visual.
 
-**Tecnologias:** `HTML` `CSS` `JavaScript`
+**Tecnologias:** `HTML` `CSS` `JavaScript` `Supabase`
 
 🔗 **[Ver repositório →](https://github.com/taliaalmeida/financas-dupla)**
 
@@ -180,7 +178,7 @@ Aplicação web para **controle financeiro**, desenvolvida para organizar receit
 
 ### ⚙️ Projeto Automação
 
-Automação desenvolvida em Python para **cadastro de milhares de produtos em sistema**, com possibilidade de execução diária e sob demanda.
+Automação desenvolvida em Python para **cadastro de produtos em sistema**, com foco na redução de tarefas repetitivas.
 
 **Tecnologias:** `Python` `Automation`
 
@@ -190,11 +188,9 @@ Automação desenvolvida em Python para **cadastro de milhares de produtos em si
 
 ### 🤖 Projeto Inteligência Artificial
 
-Modelo de inteligência artificial para **previsão de score de crédito**, desenvolvido utilizando dados de clientes de uma financeira.
+Projeto desenvolvido em Python explorando **inteligência artificial, análise de dados e previsão de score de crédito**.
 
-O projeto apresenta **86% de precisão** no modelo desenvolvido.
-
-**Tecnologias:** `Python` `Jupyter Notebook` `Machine Learning` `Data Analysis`
+**Tecnologias:** `Python` `Jupyter Notebook` `Machine Learning`
 
 🔗 **[Ver repositório →](https://github.com/taliaalmeida/Projeto-inteligencia-artificial)**
 
@@ -202,9 +198,7 @@ O projeto apresenta **86% de precisão** no modelo desenvolvido.
 
 ### 📊 Projeto Análise de Dados
 
-Análise de **cancelamento de clientes (Churn)** utilizando Python e dashboards para identificação de padrões e apoio à tomada de decisão.
-
-O projeto apresenta uma redução simulada da taxa de churn de **56% para 18%**.
+Projeto de análise de **cancelamento de clientes (Churn)** utilizando Python para identificar padrões e gerar insights.
 
 **Tecnologias:** `Python` `Jupyter Notebook` `Pandas` `Data Analysis`
 
@@ -231,55 +225,7 @@ O projeto apresenta uma redução simulada da taxa de churn de **56% para 18%**.
 
 ---
 
-## `07 // GITHUB_METRICS`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=taliaalmeida&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=EC4899&text_color=F9A8D4&count_private=true" alt="GitHub Stats" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taliaalmeida&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=F472B6&text_color=F9A8D4" alt="Top Languages" />
-
-<br/><br/>
-
-<code>GITHUB METRICS > DATA LOADED ✓</code>
-
-</div>
-
----
-
-## `08 // DEVELOPMENT_MATRIX`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/REPOSITORIES-14-EC4899?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/PROJECTS-6-F472B6?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/FOCUS-PYTHON%20%7C%20WEB%20%7C%20AI-F9A8D4?style=for-the-badge&labelColor=0D1117" />
-
-<br/><br/>
-
-```text
-┌─────────────────────────────────────────────────────────┐
-│                 DEVELOPMENT MATRIX                      │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  Python                 ████████████████████             │
-│  Web Development        ██████████████████░░             │
-│  Automation             █████████████████░░░             │
-│  Data Analysis          ███████████████░░░░░             │
-│  Artificial Intelligence██████████████░░░░░░             │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-<code>DEVELOPMENT MATRIX > ACTIVE DEVELOPMENT MODE ✓</code>
-
-</div>
-
----
-
-## `09 // CAREER_FOCUS`
+## `07 // CAREER_FOCUS`
 
 <div align="center">
 
@@ -305,7 +251,7 @@ O projeto apresenta uma redução simulada da taxa de churn de **56% para 18%**.
 
 ---
 
-## `10 // PORTFOLIO`
+## `08 // PORTFOLIO`
 
 <div align="center">
 
@@ -321,7 +267,7 @@ O projeto apresenta uma redução simulada da taxa de churn de **56% para 18%**.
 
 ---
 
-## `11 // CONNECT`
+## `09 // CONNECT`
 
 <div align="center">
 
@@ -341,11 +287,7 @@ O projeto apresenta uma redução simulada da taxa de churn de **56% para 18%**.
 
 <code>@taliaalmeida // BUILDING • LEARNING • EVOLVING</code>
 
-</div>
-
----
-
-<div align="center">
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:F472B6,100:0D1117&height=120&section=footer" width="100%" />
 
