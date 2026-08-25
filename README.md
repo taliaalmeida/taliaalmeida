@@ -48,6 +48,8 @@ const natalia = {
 
 🎯 Buscando transformar problemas reais em **soluções digitais simples, funcionais e eficientes**
 
+<div align="center">
+
 ```text
 ┌──────────────────────────────────────────────────────┐
 │                  NATALIA ALMEIDA                     │
@@ -59,6 +61,8 @@ const natalia = {
 │  STATUS     : ONLINE                                 │
 └──────────────────────────────────────────────────────┘
 ```
+
+</div>
 
 ---
 
@@ -117,6 +121,12 @@ const natalia = {
 
 ## `04 // CURRENTLY_LEARNING`
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/LEARNING%20MODE-ACTIVE-EC4899?style=for-the-badge&labelColor=0D1117" />
+
+</div>
+
 ```text
 [ ████████████████████ ] Python
 [ ██████████████████░░ ] Web Development
@@ -132,43 +142,85 @@ const natalia = {
 
 ## `05 // FEATURED_PROJECTS`
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/FEATURED%20PROJECTS-EC4899?style=for-the-badge&labelColor=0D1117" />
+
+<br><br>
+
+<code>REAL PROJECTS • REAL PROBLEMS • REAL SOLUTIONS</code>
+
+</div>
+
 ### 💎 Gestão Clínica
 
 Sistema de gestão para clínicas de estética, reunindo **agenda, caixa, clientes, prontuários e administração** em uma única aplicação.
 
 **Tecnologias:** `HTML` `CSS` `JavaScript` `Firebase`
 
-🔗 [**Ver repositório →**](https://github.com/taliaalmeida/gestao-clinica)
+<a href="https://github.com/taliaalmeida/gestao-clinica">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=F472B6" />
+</a>
 
 ---
 
-### ✨ Agenda Estética Avançada
+### ✨ Agenda Estética Avançada SV
 
 Sistema desenvolvido para **clínicas de estética**, com foco em organização de agenda, gestão e experiência do usuário.
 
 **Tecnologias:** `HTML` `CSS` `JavaScript`
 
-🔗 [**Ver repositório →**](https://github.com/taliaalmeida/agenda-estetica-avancada-sv)
+<a href="https://github.com/taliaalmeida/agenda-estetica-avancada-sv">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=F472B6" />
+</a>
 
 ---
 
-### 💰 Finanças em Dupla
+### 💰 Caixa Clínica
+
+Aplicação web para **controle financeiro de clínicas de estética**, com foco em organização de entradas, saídas e fechamento de caixa.
+
+**Tecnologias:** `HTML` `CSS` `JavaScript` `Firebase`
+
+<a href="https://github.com/taliaalmeida/caixa-clinica">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=F472B6" />
+</a>
+
+---
+
+### 💸 Finanças em Dupla
 
 Aplicação web para **controle financeiro**, desenvolvida para organizar receitas, despesas e acompanhamento financeiro de forma simples e visual.
 
 **Tecnologias:** `HTML` `CSS` `JavaScript` `Supabase`
 
-🔗 [**Ver repositório →**](https://github.com/taliaalmeida/financas-dupla)
+<a href="https://github.com/taliaalmeida/financas-dupla">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=F472B6" />
+</a>
+
+---
+
+### 🌐 By Natalia Dev — Portfólio
+
+Site desenvolvido para apresentar projetos, soluções digitais e minha trajetória na área de Tecnologia da Informação.
+
+**Tecnologias:** `HTML` `CSS` `JavaScript` `GitHub Pages`
+
+<a href="https://github.com/taliaalmeida/by-natalia-dev-ou-portfolio">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=F472B6" />
+</a>
 
 ---
 
 ### ⚙️ Projeto Automação
 
-Automação desenvolvida em Python para **cadastro de produtos em sistema**, com foco na redução de tarefas repetitivas.
+Automação desenvolvida em Python para **cadastro de produtos em sistema**, com foco na redução de tarefas repetitivas e ganho de produtividade.
 
 **Tecnologias:** `Python` `Automation`
 
-🔗 [**Ver repositório →**](https://github.com/taliaalmeida/Projeto-automacao)
+<a href="https://github.com/taliaalmeida/Projeto-automacao">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=F472B6" />
+</a>
 
 ---
 
@@ -178,30 +230,38 @@ Projeto desenvolvido em Python explorando **inteligência artificial, análise d
 
 **Tecnologias:** `Python` `Jupyter Notebook` `Machine Learning`
 
-🔗 [**Ver repositório →**](https://github.com/taliaalmeida/Projeto-inteligencia-artificial)
+<a href="https://github.com/taliaalmeida/Projeto-inteligencia-artificial">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=F472B6" />
+</a>
 
 ---
 
 ### 📊 Projeto Análise de Dados
 
-Projeto de análise de **cancelamento de clientes (Churn)** utilizando Python para identificar padrões e gerar insights.
+Projeto de análise de **cancelamento de clientes (Churn)** utilizando Python para identificar padrões, analisar comportamentos e gerar insights.
 
 **Tecnologias:** `Python` `Jupyter Notebook` `Pandas` `Data Analysis`
 
-🔗 [**Ver repositório →**](https://github.com/taliaalmeida/Projeto-analise-dados)
+<a href="https://github.com/taliaalmeida/Projeto-analise-dados">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=F472B6" />
+</a>
 
 ---
 
 ## `06 // PROJECT_STATUS`
+
+<div align="center">
 
 ```text
 ┌─────────────────────────────────────────────────────────┐
 │                    PROJECT STATUS                       │
 ├─────────────────────────────────────────────────────────┤
 │                                                         │
-│  🟢  Gestão Clínica              ACTIVE                │
-│  🟢  Agenda Estética             ACTIVE                │
-│  🟢  Finanças em Dupla           ACTIVE                │
+│  🟢  Gestão Clínica              FEATURED              │
+│  🟢  Agenda Estética             FEATURED              │
+│  🟢  Caixa Clínica               FEATURED              │
+│  🟢  Finanças em Dupla           FEATURED              │
+│  🟢  By Natalia Dev              FEATURED              │
 │  🟢  Projeto Automação           BUILDING              │
 │  🟡  Inteligência Artificial     STUDYING              │
 │  🟡  Análise de Dados            STUDYING              │
@@ -209,9 +269,17 @@ Projeto de análise de **cancelamento de clientes (Churn)** utilizando Python pa
 └─────────────────────────────────────────────────────────┘
 ```
 
+</div>
+
 ---
 
 ## `07 // CAREER_FOCUS`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/OPEN%20TO%20OPPORTUNITIES-EC4899?style=for-the-badge&labelColor=0D1117" />
+
+<br><br>
 
 ```text
 🎯 INTEREST AREAS
@@ -225,6 +293,8 @@ Projeto de análise de **cancelamento de clientes (Churn)** utilizando Python pa
 → Technology & Innovation
 ```
 
+</div>
+
 > Estou construindo minha experiência através de projetos reais e buscando oportunidades para aplicar meus conhecimentos, aprender com novos desafios e crescer profissionalmente na área de Tecnologia.
 
 ---
@@ -235,6 +305,10 @@ Projeto de análise de **cancelamento de clientes (Churn)** utilizando Python pa
 
 <a href="https://github.com/taliaalmeida/by-natalia-dev-ou-portfolio">
 <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=EC4899" />
+</a>
+
+<a href="https://github.com/taliaalmeida">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=F9A8D4" />
 </a>
 
 <br><br>
