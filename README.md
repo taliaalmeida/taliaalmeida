@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=F472B6&center=true&vCenter=true&width=750&lines=Developer+in+Training;Python+%E2%80%A2+Web+Development+%E2%80%A2+Automation;AI+%26+Data+%E2%80%A2+Problem+Solving;Building+real+projects+with+technology;Learn.+Build.+Automate.+Evolve" alt="Typing SVG" />
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-EC4899?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/FOCUS-TECHNOLOGY-F472B6?style=for-the-badge&labelColor=0D1117" />
@@ -50,7 +50,7 @@ const natalia = {
 
 <div align="center">
 
-```text
+<pre>
 ┌──────────────────────────────────────────────────────┐
 │                  NATALIA ALMEIDA                     │
 ├──────────────────────────────────────────────────────┤
@@ -60,7 +60,7 @@ const natalia = {
 │  APPROACH   : Learn by building                      │
 │  STATUS     : ONLINE                                 │
 └──────────────────────────────────────────────────────┘
-```
+</pre>
 
 </div>
 
@@ -113,7 +113,7 @@ const natalia = {
 
 <br><br>
 
-<code>TECH STACK > MODULES LOADED ✓</code>
+<code>TECH STACK &gt; MODULES LOADED ✓</code>
 
 </div>
 
@@ -125,16 +125,18 @@ const natalia = {
 
 <img src="https://img.shields.io/badge/LEARNING%20MODE-ACTIVE-EC4899?style=for-the-badge&labelColor=0D1117" />
 
-</div>
+<br><br>
 
-```text
+<pre>
 [ ████████████████████ ] Python
 [ ██████████████████░░ ] Web Development
 [ █████████████████░░░ ] Automation
 [ ███████████████░░░░░ ] Data Analysis
 [ ██████████████░░░░░░ ] Artificial Intelligence
-[ █████████████░░░░░░░ ] APIs & Backend
-```
+[ █████████████░░░░░░░ ] APIs &amp; Backend
+</pre>
+
+</div>
 
 > Atualmente aprofundando conhecimentos em desenvolvimento, automação, dados e inteligência artificial através de projetos práticos.
 
@@ -216,7 +218,7 @@ Site desenvolvido para apresentar projetos, soluções digitais e minha trajetó
 
 <div align="center">
 
-```text
+<pre>
 ┌─────────────────────────────────────────────────────────┐
 │                    PROJECT STATUS                       │
 ├─────────────────────────────────────────────────────────┤
@@ -226,9 +228,9 @@ Site desenvolvido para apresentar projetos, soluções digitais e minha trajetó
 │  🟢  Caixa Clínica               FEATURED              │
 │  🟢  Finanças em Dupla           FEATURED              │
 │  🟢  By Natalia Dev              FEATURED              │
-│                                                         │ 
+│                                                         │
 └─────────────────────────────────────────────────────────┘
-```
+</pre>
 
 </div>
 
@@ -242,17 +244,11 @@ Site desenvolvido para apresentar projetos, soluções digitais e minha trajetó
 
 <br><br>
 
-```text
-🎯 INTEREST AREAS
+🎯 **INTEREST AREAS**
 
-→ Software Development
-→ Python Development
-→ Web Development
-→ Automation
-→ Data
-→ Artificial Intelligence
-→ Technology & Innovation
-```
+<br><br>
+
+`Software Development` • `Python Development` • `Web Development` • `Automation` • `Data` • `Artificial Intelligence` • `Technology & Innovation`
 
 </div>
 
@@ -265,16 +261,12 @@ Site desenvolvido para apresentar projetos, soluções digitais e minha trajetó
 <div align="center">
 
 <a href="https://github.com/taliaalmeida/by-natalia-dev-ou-portfolio">
-<img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=EC4899" />
+<img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=github&logoColor=F472B6" />
 </a>
 
 <a href="https://github.com/taliaalmeida">
 <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=F9A8D4" />
 </a>
-
-<br><br>
-
-<code>Explore my projects, solutions and technology journey.</code>
 
 </div>
 
@@ -306,6 +298,6 @@ Site desenvolvido para apresentar projetos, soluções digitais e minha trajetó
 
 ### `Thanks for visiting my profile. 💗`
 
-<code>SYSTEM STATUS > ONLINE ✓</code>
+<code>SYSTEM STATUS &gt; ONLINE ✓</code>
 
 </div>
