@@ -151,7 +151,7 @@ Sistema SaaS voltado para clínicas de estética, com foco em organização de a
 
 **Stack:** `HTML5` `CSS3` `JavaScript` `Firebase`
 
-[→ Ver projeto](./agenda-estetica-avancada-sv)
+[→ Ver projeto](https://github.com/taliaalmeida/agenda-estetica-avancada-sv/blob/main/README.md)
 
 ---
 
@@ -161,7 +161,7 @@ Sistema de gestão para clínicas de estética reunindo agenda, caixa, clientes,
 
 **Stack:** `HTML5` `CSS3` `Firebase Realtime Database`
 
-[→ Ver projeto](./gestao-clinica)
+[→ Ver projeto](https://github.com/taliaalmeida/gestao-clinica/blob/main/README.md)
 
 ---
 
@@ -171,7 +171,7 @@ Projeto de machine learning desenvolvido em Python para previsão de nota de cr�
 
 **Stack:** `Python` `Data Analysis` `Machine Learning`
 
-[→ Ver projeto](./previsao-credito)
+[→ Ver projeto](https://github.com/taliaalmeida/Projeto-inteligencia-artificial)
 
 ---
 
@@ -181,7 +181,7 @@ Automação desenvolvida em Python para cadastro de grandes volumes de produtos 
 
 **Stack:** `Python` `Automation`
 
-[→ Ver projeto](./Projeto-automacao)
+[→ Ver projeto](https://github.com/taliaalmeida/Projeto-automacao/blob/main/README.md)
 
 ---
 
@@ -191,7 +191,7 @@ Aplicação de comunicação em tempo real desenvolvida explorando front-end e b
 
 **Stack:** `Python` `Flet`
 
-[→ Ver projeto](./chat-ao-vivo-site-app)
+[→ Ver projeto](https://github.com/taliaalmeida/Projeto-site-app)
 
 ---
 
@@ -201,7 +201,7 @@ Aplicação em Python para gerenciamento de usuários, utilizando menu interativ
 
 **Stack:** `Python`
 
-[→ Ver projeto](./sistema-cadastro)
+[→ Ver projeto](https://github.com/taliaalmeida/sistema-cadastro/blob/main/README.md)
 
 ---
 
@@ -228,18 +228,25 @@ Aplicação em Python para gerenciamento de usuários, utilizando menu interativ
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=taliaalmeida&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=EC4899&text_color=F9A8D4&count_private=true" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=taliaalmeida&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=EC4899&text_color=F9A8D4" />
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taliaalmeida&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=F472B6&text_color=F9A8D4" alt="Top Languages" />
-
-<br/><br/>
-
-<code>GITHUB METRICS > DATA LOADED ✓</code>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taliaalmeida&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F472B6&text_color=F9A8D4" />
 
 </div>
 
+---
+
+## `08 // CONTRIBUTION_MATRIX`
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=taliaalmeida&theme=dark&hide_border=true&background=0D1117&ring=EC4899&fire=F472B6&currStreakLabel=F9A8D4&sideLabels=F9A8D4&dates=F9A8D4" />
+
+<br/><br/>
+
+<code>CONTRIBUTION MATRIX > DEVELOPMENT MODE ✓</code>
+
+</div>
 
 ---
 
