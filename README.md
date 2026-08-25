@@ -228,25 +228,18 @@ Aplicação em Python para gerenciamento de usuários, utilizando menu interativ
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=taliaalmeida&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=EC4899&text_color=F9A8D4" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taliaalmeida&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F472B6&text_color=F9A8D4" />
-
-</div>
-
----
-
-## `08 // CONTRIBUTION_MATRIX`
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=taliaalmeida&theme=dark&hide_border=true&background=0D1117&ring=EC4899&fire=F472B6&currStreakLabel=F9A8D4&sideLabels=F9A8D4&dates=F9A8D4" />
+<img src="https://github-readme-stats.vercel.app/api?username=taliaalmeida&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=EC4899&text_color=F9A8D4&count_private=true" alt="GitHub Stats" />
 
 <br/><br/>
 
-<code>CONTRIBUTION MATRIX > DEVELOPMENT MODE ✓</code>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taliaalmeida&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=F472B6&text_color=F9A8D4" alt="Top Languages" />
+
+<br/><br/>
+
+<code>GITHUB METRICS > DATA LOADED ✓</code>
 
 </div>
+
 
 ---
 
