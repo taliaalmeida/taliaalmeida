@@ -48,21 +48,17 @@ const natalia = {
 
 🎯 Buscando transformar problemas reais em **soluções digitais simples, funcionais e eficientes**
 
-<div align="center">
-
 <pre>
-┌──────────────────────────────────────────────────────┐
-│                  NATALIA ALMEIDA                     │
-├──────────────────────────────────────────────────────┤
-│  ROLE       : Developer in Training                  │
-│  FOCUS      : Python | Web | Automation | AI         │
-│  STUDYING   : Technology in IT Management            │
-│  APPROACH   : Learn by building                      │
-│  STATUS     : ONLINE                                 │
-└──────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────┐
+│ NATALIA ALMEIDA                                         │
+├─────────────────────────────────────────────────────────┤
+│ FUNÇÃO     : Developer in Training                      │
+│ FOCO       : Python | Web | Automação | IA              │
+│ ESTUDANDO  : Tecnologia em Gestão da TI                 │
+│ ABORDAGEM  : Learn by building                           │
+│ STATUS     : ONLINE                                     │
+└─────────────────────────────────────────────────────────┘
 </pre>
-
-</div>
 
 ---
 
@@ -121,22 +117,16 @@ const natalia = {
 
 ## `04 // CURRENTLY_LEARNING`
 
-<div align="center">
-
 <img src="https://img.shields.io/badge/LEARNING%20MODE-ACTIVE-EC4899?style=for-the-badge&labelColor=0D1117" />
 
-<br><br>
-
 <pre>
-[ ████████████████████ ] Python
-[ ██████████████████░░ ] Web Development
-[ █████████████████░░░ ] Automation
-[ ███████████████░░░░░ ] Data Analysis
-[ ██████████████░░░░░░ ] Artificial Intelligence
-[ █████████████░░░░░░░ ] APIs &amp; Backend
+[████████████████████] Python
+[██████████████████░░] Desenvolvimento Web
+[█████████████████░░░] Automação
+[███████████████░░░░░] Análise de Dados
+[██████████████░░░░░░] Inteligência Artificial
+[█████████████░░░░░░░] APIs e Backend
 </pre>
-
-</div>
 
 > Atualmente aprofundando conhecimentos em desenvolvimento, automação, dados e inteligência artificial através de projetos práticos.
 
