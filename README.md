@@ -228,9 +228,6 @@ Site desenvolvido para apresentar projetos, soluções digitais e minha trajetó
 │  🟢  Caixa Clínica               FEATURED              │
 │  🟢  Finanças em Dupla           FEATURED              │
 │  🟢  By Natalia Dev              FEATURED              │
-│  🟢  Projeto Automação           BUILDING              │
-│  🟡  Inteligência Artificial     STUDYING              │
-│  🟡  Análise de Dados            STUDYING              │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
